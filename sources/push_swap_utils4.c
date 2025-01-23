@@ -10,7 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-
 #include "../includes/push_swap.h"
 
 void	initialize_nbrs_array(int argc, char **argv, int **nbrs, int *nbr_nbrs)

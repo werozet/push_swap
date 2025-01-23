@@ -10,7 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-
 #include "../includes/push_swap.h"
 
 void	sort_3_nbr(t_stack **stack, int a, int b, int c)

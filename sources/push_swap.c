@@ -10,7 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-
 #include "../includes/push_swap.h"
 
 int	init_stack(int argc, char **argv, t_stack **stack_a, t_stack **stack_b)
